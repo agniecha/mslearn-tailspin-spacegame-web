@@ -1,3 +1,4 @@
+[![Build Status](https://autenti.visualstudio.com/Agile%20test/_apis/build/status/agniecha.mslearn-tailspin-spacegame-web?branchName=master)](https://autenti.visualstudio.com/Agile%20test/_build/latest?definitionId=508&branchName=master)
 
 # Contributing
 
